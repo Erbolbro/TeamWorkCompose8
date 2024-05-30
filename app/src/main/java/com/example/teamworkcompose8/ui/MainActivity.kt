@@ -1,4 +1,4 @@
-package com.example.teamworkcompose8
+package com.example.teamworkcompose8.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

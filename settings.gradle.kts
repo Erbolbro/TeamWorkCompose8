@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "TeamWorkCompose8"
 include(":app")
- 
+include(":data")
+include(":domain")
+include(":presentation")
